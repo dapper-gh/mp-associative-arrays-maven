@@ -67,7 +67,12 @@ class KVPair<K, V> {
    * @return a string of the form "key:value".
    */
   public String toString() {
-    return this.key.toString() + ":" + (this.val == null ? "null" : this.val.toString());
+    if (null == this.val) {
+      return this.key.toString() + ":" + "<null>";
+    } else {
+      return this.key.toString() + ":" + this.val.toString();
+    } // if
   } // toString()
+
 } // class KVPair
 
