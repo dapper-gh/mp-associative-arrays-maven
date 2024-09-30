@@ -3,5 +3,6 @@ Associative Arrays
 
 Starter code for a CSC-207 project on associative arrays.
 
-_Students must replace the contents of this file with appropriate
-contents, including class, author, date, and URL._
+Class: Grinnell College, CSC-207, Fall 2024
+Author: David William Stroud (except starter code and shared/TestAssociativeArrays)
+Date: Sep 28, 2024 through Oct 3, 2024
