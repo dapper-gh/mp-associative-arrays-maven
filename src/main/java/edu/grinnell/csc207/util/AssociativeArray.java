@@ -231,6 +231,9 @@ public class AssociativeArray<K, V> {
       } // if
     } // for
 
-    throw new KeyNotFoundException("Key '" + (key == null ? "null" : key.toString()) + "' is missing");
+    throw new KeyNotFoundException(
+            "Key '"
+                    + (key == null ? "null" : key.toString())
+                    + "' is missing");
   } // find(K)
 } // class AssociativeArray
