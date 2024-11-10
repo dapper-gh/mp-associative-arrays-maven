@@ -5,6 +5,7 @@ package edu.grinnell.csc207.util;
  * (dictionary, map, etc.).
  *
  * @author Samuel A. Rebelsky
+ * @author David William Stroud
  */
 public class KeyNotFoundException extends Exception {
   // +--------------+------------------------------------------------

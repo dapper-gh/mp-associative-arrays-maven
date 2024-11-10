@@ -4,6 +4,7 @@ package edu.grinnell.csc207.util;
  * Exceptions that indicate that a key is null.
  *
  * @author Samuel A. Rebelsky
+ * @author David William Stroud
  */
 public class NullKeyException extends Exception {
   // +--------------+------------------------------------------------
