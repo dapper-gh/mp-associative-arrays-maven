@@ -1,0 +1,5 @@
+Since First Submission:
+
+- Modified README.md to link to my repository and the starter code.
+- Added my name to the Javadoc headers for classes (although I believe I had already added it in
+  all places where I contributed code).
